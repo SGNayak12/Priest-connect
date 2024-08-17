@@ -1,0 +1,22 @@
+{
+  "name": "backendforpriestservice",
+  "version": "1.0.0",
+  "description": "Backend code for Priest services application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "backend": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Suhas G Nayak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  }
+}
